@@ -3,6 +3,7 @@
 
 This repository contains an original, fictional case study analyzing **Sweet Crumbs Bakery**, a boutique cake shop in Johannesburg, through the **9-S Framework** (an extended version of McKinsey’s 7-S model).  
 The analysis explores internal misalignments, structural weaknesses, and growth opportunities as the business scales beyond its first successful year.
+<img width="1280" height="731" alt="image" src="https://github.com/user-attachments/assets/2c57762e-cb87-4204-8231-4c30425a2bbf" />
 
 ---
 
@@ -11,6 +12,7 @@ The analysis explores internal misalignments, structural weaknesses, and growth 
 **Sweet Crumbs Bakery** launched in early 2023 in Rosebank, Johannesburg, blending European-style patisserie designs with South African flavors.  
 Despite an energetic start and viral social-media attention, sales declined by late 2024 due to fragmented systems, supply-chain volatility, and high staff turnover.  
 This project applies the **9-S Organizational Alignment Model** to diagnose these weaknesses and propose practical, scalable solutions.
+<img width="3508" height="2481" alt="image" src="https://github.com/user-attachments/assets/118e08de-f0a9-4fa3-9a42-219628296f4c" />
 
 ---
 
